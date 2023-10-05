@@ -1,0 +1,15 @@
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\bin\Debug\net6.0\Lab_2_4.exe
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\bin\Debug\net6.0\Lab_2_4.deps.json
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\bin\Debug\net6.0\Lab_2_4.runtimeconfig.json
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\bin\Debug\net6.0\Lab_2_4.dll
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\bin\Debug\net6.0\Lab_2_4.pdb
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.csproj.AssemblyReference.cache
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.AssemblyInfoInputs.cache
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.AssemblyInfo.cs
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.csproj.CoreCompileInputs.cache
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.dll
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\refint\Lab_2_4.dll
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.pdb
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\Lab_2_4.genruntimeconfig.cache
+C:\Users\артем\Desktop\Лаби\ООП\Lab_2_4\Lab_2_4\obj\Debug\net6.0\ref\Lab_2_4.dll
